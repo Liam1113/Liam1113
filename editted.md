@@ -3,11 +3,11 @@
 I'm Liam, I'm a Python, Lua, HTML, and Batch programmer, but I am also a Discord Bot developer. I work with discord.py, raw Python, and sometimes Flask.
 
 #### My Tools
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="images/vscode.png" /></a>
-<a href="https://www.jetbrains.com/pycharm/" title="PyCharm"><img src="images/pycharm.png" /></a>
-<a href="https://python.org/" title="Python"><img src="images/python.png" /></a>
-<a href="https://lua.org/" title="Lua"><img src="images/lua.png" /></a>
-<a href="https://html.spec.whatwg.org/" title="HTML"><img src="images/html.png" /></a>
-<a href="https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands" title="Batch"><img src="images/batch.jpg" /></a>
-<a href="https://discordpy.readthedocs.io/en/latest/" title="DiscordPy"><img src="images/dpy.jpg" /></a>
-<a href="https://www.heroku.com/" title="Heroku"><img src="images/heroku.jpg" /></a>
+![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual_studio_code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Lua-informational?style=flat&logo=lua&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Discord-informational?style=flat&logo=discord&logoColor=white&color=2bbc8a)
