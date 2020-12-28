@@ -5,7 +5,7 @@ My name is Liam, I'm a software/web developer that mainly uses Python. I make Di
 ### My Tools
 ![](https://img.shields.io/badge/OS-Windows-blue?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-PyCharm-blue?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VSCode-blue?style=flat&logo=visual_studio_code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VSCode-blue?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-blue?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Lua-blue?style=flat&logo=lua&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML5-blue?style=flat&logo=html5&logoColor=white&color=2bbc8a)
