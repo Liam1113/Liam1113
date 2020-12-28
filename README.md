@@ -1,8 +1,8 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm Liam, I'm a Python, Lua, HTML, and Batch programmer, but I am also a Discord Bot developer. I work with discord.py, raw Python, and sometimes Flask.
+My name is Liam, I'm a software/web developer that mainly uses Python. I make Discord Bots as well as various other things. 
 
-#### My Tools
+### My Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual_studio_code&logoColor=white&color=2bbc8a)
@@ -13,3 +13,7 @@ I'm Liam, I'm a Python, Lua, HTML, and Batch programmer, but I am also a Discord
 ![](https://img.shields.io/badge/Tools-Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Discord-informational?style=flat&logo=discord&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+
+### My GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liam1113&hide=css,c&langs_count=8&theme=tokyonight)](https://github.com/liam1113/github-readme-stats)
+[![Liam's github stats](https://github-readme-stats.vercel.app/api?username=liam1113&theme=tokyonight)](https://github.com/liam1113/github-readme-stats)
