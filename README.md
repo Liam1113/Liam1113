@@ -1,6 +1,6 @@
 ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-My name is Liam, I'm a software/web developer that mainly uses Python. I make Discord Bots as well as various other things. 
+My name is Liam, I'm a software/web developer that mainly uses Python. I work with Roblox and Discord Bots a good portion as well.
 
 ### My Tools
 ![](https://img.shields.io/badge/OS-Windows-blue?style=flat&logo=windows&logoColor=white&color=38bdae)
