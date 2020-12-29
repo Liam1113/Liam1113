@@ -21,9 +21,4 @@ My name is Liam, I'm a software/web developer that mainly uses Python. I make Di
 <a href="https://github.com/Liam1113/Liam1113">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=liam1113&theme=tokyonight&count_private=true)](https://github.com/liam1113/github-readme-stats" />
 </a>
-<a href="https://github.com/Liam1113/Liam1113">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liam1113&repo=ScriptInitializer&theme=tokyonight" />
-</a>
-<a href="https://github.com/Liam1113/Liam1113">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liam1113&repo=STEM-project&theme=tokyonight" />
-</a>
+
