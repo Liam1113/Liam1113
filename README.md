@@ -15,5 +15,5 @@ My name is Liam, I'm a software/web developer that mainly uses Python. I make Di
 ![](https://img.shields.io/badge/Tools-Git-blue?style=flat&logo=git&logoColor=white&color=2bbc8a)
 
 ### My GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liam1113&hide=css,c&langs_count=8&theme=tokyonight)](https://github.com/liam1113/github-readme-stats)
-[![Liam's github stats](https://github-readme-stats.vercel.app/api?username=liam1113&theme=tokyonight)](https://github.com/liam1113/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liam1113&hide=css,c&langs_count=5&theme=tokyonight)](https://github.com/liam1113/github-readme-stats)
+[![Liam's github stats](https://github-readme-stats.vercel.app/api?username=liam1113&theme=tokyonight&count_private=true&hide=stars)](https://github.com/liam1113/github-readme-stats)
