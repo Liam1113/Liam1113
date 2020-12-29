@@ -3,7 +3,7 @@
 My name is Liam, I'm a software/web developer that mainly uses Python. I make Discord Bots as well as various other things. 
 
 ### My Tools
-![](https://img.shields.io/badge/OS-Windows-blue?style=flat&logo=windows&logoColor=white&color=38bcad)
+![](https://img.shields.io/badge/OS-Windows-blue?style=flat&logo=windows&logoColor=white&color=38bdae)
 ![](https://img.shields.io/badge/Editor-PyCharm-blue?style=flat&logo=pycharm&logoColor=white&color=38bcad)
 ![](https://img.shields.io/badge/Editor-VSCode-blue?style=flat&logo=visual-studio-code&logoColor=white&color=38bcad)
 ![](https://img.shields.io/badge/Code-Python-blue?style=flat&logo=python&logoColor=white&color=38bcad)
@@ -21,4 +21,9 @@ My name is Liam, I'm a software/web developer that mainly uses Python. I make Di
 <a href="https://github.com/Liam1113/Liam1113">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=liam1113&theme=tokyonight&count_private=true)](https://github.com/liam1113/github-readme-stats" />
 </a>
-
+<a href="https://github.com/Liam1113/ScriptInitializer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liam1113&repo=ScriptInitializer&title_color=6d9ff5&text_color=38bcad&icon_color=638fda&bg_color=1a1b27" />
+</a>
+<a href="https://github.com/Liam1113/STEM-Project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liam1113&repo=STEM-Project&title_color=6d9ff5&text_color=38bcad&icon_color=638fda&bg_color=1a1b27" />
+</a>  
