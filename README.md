@@ -15,15 +15,15 @@ My name is Liam, I'm a software/web developer that mainly uses Python. I work wi
 ![](https://img.shields.io/badge/Tools-Git-blue?style=flat&logo=git&logoColor=white&color=38bcad)
 
 ### My GitHub Stats
-<a href="https://github.com/Liam1113/Liam1113">
+<a href="https://github.com/Liam1113/Liam131">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liam1113&hide=css,c&langs_count=5&theme=tokyonight" />
 </a>
-<a href="https://github.com/Liam1113/Liam1113">
+<a href="https://github.com/Liam1113/Liam31">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=liam1113&theme=tokyonight&line_height=27&count_private=true)](https://github.com/liam1113/github-readme-stats" />
 </a>
-<a href="https://github.com/Liam1113/InstanceDirectories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liam1113&repo=InstanceDirectories&title_color=6d9ff5&text_color=38bcad&icon_color=638fda&bg_color=1a1b27" />
+<a href="https://github.com/Liam31/InstanceDirectories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liam31&repo=InstanceDirectories&title_color=6d9ff5&text_color=38bcad&icon_color=638fda&bg_color=1a1b27" />
 </a>
-<a href="https://github.com/Liam1113/STEM-Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liam1113&repo=STEM-Project&title_color=6d9ff5&text_color=38bcad&icon_color=638fda&bg_color=1a1b27" />
+<a href="https://github.com/Liam31/STEM-Project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liam31&repo=STEM-Project&title_color=6d9ff5&text_color=38bcad&icon_color=638fda&bg_color=1a1b27" />
 </a>  
