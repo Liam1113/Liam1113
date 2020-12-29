@@ -19,7 +19,7 @@ My name is Liam, I'm a software/web developer that mainly uses Python. I make Di
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liam1113&hide=css,c&langs_count=5&theme=tokyonight" />
 </a>
 <a href="https://github.com/Liam1113/Liam1113">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=liam1113&theme=tokyonight&count_private=true)](https://github.com/liam1113/github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=liam1113&theme=tokyonight&line_height=27&count_private=true)](https://github.com/liam1113/github-readme-stats" />
 </a>
 <a href="https://github.com/Liam1113/ScriptInitializer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liam1113&repo=ScriptInitializer&title_color=6d9ff5&text_color=38bcad&icon_color=638fda&bg_color=1a1b27" />
