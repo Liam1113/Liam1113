@@ -25,5 +25,5 @@ My name is Liam, I'm a software/web developer that mainly uses Python. I work wi
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liam31&repo=InstanceDirectories&title_color=6d9ff5&text_color=38bcad&icon_color=638fda&bg_color=1a1b27" />
 </a>
 <a href="https://github.com/Liam31/STEM-Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liam31&repo=STEM-Project&title_color=6d9ff5&text_color=38bcad&icon_color=638fda&bg_color=1a1b27" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liam31&repo=STEM-Project&title_color=6d9ff5&line_height=27&text_color=38bcad&icon_color=638fda&bg_color=1a1b27" />
 </a>  
